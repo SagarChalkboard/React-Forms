@@ -11,7 +11,7 @@ To test various components:
 - In order to use other components change the return value of the app.jsx file to the component you want to test.
 
   1. Joker API Component
-     It keep giving new joker from the joker api on clicking on the 'new joke' button
+     It keep giving new jokes from the joker api on clicking on the 'new joke' button
      ![image](https://github.com/user-attachments/assets/c1e04fe6-ceb5-4dd0-b06f-f52ba3931661)
 
 2. Simple Form
