@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <Joker/>
+      <Form/>
       
     </>
   )
