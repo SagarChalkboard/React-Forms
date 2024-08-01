@@ -1,10 +1,10 @@
 # React + Vite
 This repository includes a simple react application that includes components demonstrating a react form, a react comments form and a demonstration of the usage of UseEffect with the help of a Jokes API.
 <h1>Instructions to run the application </h1>
-1. Download the zip file.
-2. Unzip and open the folder on Visual Studio Code.
-3. Run the following command: npm install
-4. After the installation has been completed, run the application with the help of this command: npm run dev
+1. Download the zip file.<br/>
+2. Unzip and open the folder on Visual Studio Code.<br/>
+3. Run the following command: npm install<br/>
+4. After the installation has been completed, run the application with the help of this command: npm run dev<br/>
 
 To test various components:
 - This app includes the joker API component by default.
